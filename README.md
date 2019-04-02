@@ -4,7 +4,7 @@ Steps
 
 
 
-    git clone 
+    git clone https://github.com/prkkhan786/DataPeace.git
     cd Datapeace
     npm install
     npm start
